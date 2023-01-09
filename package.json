@@ -24,13 +24,13 @@
   ],
   "author": "Highcharts",
   "bugs": {
-    "url": "https://github.com/highcharts/highcharts-react-native"
+    "url": "https://github.com/tqloc0311/highcharts-react-native"
   },
   "contributors": [
     "Sebastian Bochan <sebastian@blacklabel.pl>",
     "Daniel Studencki <daniel.studencki@gmail.com>"
   ],
-  "homepage": "https://github.com/highcharts/highcharts-react-native#readme",
+  "homepage": "https://github.com/tqloc0311/highcharts-react-native#readme",
   "dependencies": {
     "expo": "~38.0.8",
     "react": "~16.11.0",
