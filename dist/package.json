@@ -7,8 +7,7 @@
     "url": "git+https://github.com/highcharts/highcharts-react-native-official.git"
   },
   "dependencies": {
-    "metro-config": "^0.60.0",
-    "react-native-unimodules": "^0.10.1"
+    "metro-config": "^0.60.0"
   },
   "keywords": [
     "highcharts",
